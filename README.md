@@ -22,6 +22,7 @@ Instructions:
 	8. Run the Project from Netbeans.
 	
 	9. Sign Up and Login.
+	
 
 Credit: https://www.styleshout.com (For any Website Templates visit the link)
 	
