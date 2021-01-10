@@ -23,4 +23,5 @@ Instructions:
 	
 	9. Sign Up and Login.
 
-
+Credit: https://www.styleshout.com (For any Website Templates visit the link)
+	
